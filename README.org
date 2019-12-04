@@ -1,0 +1,12 @@
+* Introduction
+Org-macros-html is a collection of Org-mode compatible snippets that produce clean HTML when exported. I use them to insert Org-mode compatible text into my website posts that is properly converted using ox-hugo.
+
+* Usage
+This macro collection can be used in multiple ways. You can either use it as a template to copy paste from and customize to your liking, or you can copy the this repo's YASnippet folder contents into your YASnippet local installation.
+
+* Instalation
+Copy this repository in a folder in you emacs path using the following command:
+
+#+BEGIN_SRC sh
+git clone https://github.com/elsatch/org-macros-html
+#+END_SRC
